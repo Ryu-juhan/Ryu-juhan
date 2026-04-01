@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## introduction
+## Introduction
 영남대학교 컴퓨터공학과 23학번 류주한
 
-## 학번 22311941
+## 학번 
+22311941
 
 ## E-mail
 rjhan1004@naver.com
